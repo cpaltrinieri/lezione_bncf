@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+    <fileDesc>
+        <titleStmt>
+         <title>Lezione Sopra la Pittura</title>				
+         <author>Unknown Author</author>
+         <editor><persName >Carlotta Paltrinieri</persName>, <affiliation><orgName>Royal Holloway University of London</orgName></affiliation></editor>
+ 
+        </titleStmt>
+        <publicationStmt>
+         <p>Transcribed by Carlotta Paltrinieri</p>
+        </publicationStmt>
+        <sourceDesc>
+         <p>Magliabechiano XVII, 7 Biblioteca Nazionale Centrale di Firenze Novembre 2021</p>
+        </sourceDesc>
+       </fileDesc>
+<!-- [ TEI Header information ]  -->
+ </teiHeader>
+ <text>
+  <front>
+    <pb facs="../facs/IMG_0338.JPG" />
+    <p>
+      <lb /> D.7.
+      <lb />XVII
+      <lb />D.8.  
+      <lb /><expan>Anon<ex>imo</ex></expan>
+    
+      <lb /><expan>Lez<ex>ione</ex></expan> Sopra la Pittura
+    
+      <lb />Di <expan>M<ex>esser</ex></expan> <persName sameAs="https://viaf.org/viaf/2458669/">Lelio Torelli da Fano </persName> 
+    
+      <lb />XVII, 7
+    <pb n="1r" facs="../facs/IMG_0339.JPG" />
+
+    <lb />Lettione nell’Accademia del Disegno
+    
+    <lb />Di <expan>M<ex>esser</ex></expan> <expan>L<ex>elio</ex></expan> Torelli da Fano
+  </p>
+  </front>
+  <body>
+
+<p>
+
+
+
+
+
+
+
+
+<pb n="2r"  facs="../facs/IMG_0340.JPG" />
+
+<lb />Quelli che della Pittura hanno trattato hanno detto 
+<lb />che ella è imitatione della natura, considerando in 
+<lb />quella tre cose, l’inventione, il disegnio el colorito 
+<lb />dicendo l’inventione esser quella storia o favola 
+<lb />che il pittore concepe nella mente <expan>p<ex>er</ex></expan> volerla 
+<lb />rappresentare, il disegnio essere quelli <expan>lineame<ex>n</ex></expan>
+<lb break="no" />ti e dintorni che exprimono il concetto, il colorito 
+<lb />esser quella imitatione de colori che la natura 
+<lb />ha dato a questi corpi terreni, hora se la pittura 
+<lb />non è altro che imitatione della natura, Nobilis
+<lb break="no" />imo <expan>Sig<ex>no</ex></expan>r luogotenente virtuosissimi Accade
+<lb break="no" />mici, e voi tutti gratiosissimi uditori, chiara 
+<lb />cosa che il Pittore deve con ogni studio cercare 
+<lb />d’intendere i miracoli di quello, <expan>no<ex>n</ex></expan> altrimenti che s’habbia fatto ne suoi sottilissimi discorsi 
+<lb />il filosofo de Pittori Lionardo Da Vinci. <expan>Esse<ex>n</ex></expan>
+<lb break="no" />domi stato imposto da voi mio superiore che io 
+<lb />dovessi salire in questo honoratissimo luogho 
+<lb />p[er] ragionar di cosa la quale a proposito convene
+<lb break="no" />vole fusse a <expan>q<ex>uest</ex></expan>a <expan>n<ex>ostr</ex></expan>a Accademia del disegnio dirò di quella comparatione che fa Aristotile 
+
+
+<pb n="2v" />
+<lb />nella sua Poetica fra que duoi Pittori Zeusi 
+<lb />e Polignioto m’è parso di pigliare a trattare 
+<lb />di materia la quale secondo il mio debile 
+<lb />ingegnio più di ogn’altra c’aveva e meravig
+<lb break="no" />lia e diletto e questa e quella parte di filosofia 
+<lb />la quale considera in che modo dal temperamento 
+<lb />del corpo si conoschino gli affetti dell’animo 
+<lb />giudicando esser necessario al vero Pittore 
+<lb />[added infra-line: perchè senza la cognitione di questa malamente potrà exprimere un timido, un confidente, un allegro, un mesto, un doloroso, un ch’abbia speranza un altro che disperi, e per prendere quel partito migliore che deve esporre]
+<lb />mostrerò prima l’autorità di quelli che hanno 
+<lb />cosi tenuto secondariamente in che modi 
+<lb />conoschino questi temperamenti, terzo et 
+<lb />ultimo la <expan>P<ex>er</ex></expan>fetione che arrechi al pittore l’
+<lb />intendere <expan>q<ex>uell</ex></expan>a parte e quanto sieno stati 
+<lb />tenuti in pregio insieme con l’opere loro quelli che 
+<lb />più degl’altri l’hanno intesa la quale a gui
+<lb break="no" />sa della Pittura anzi come Pittura stessa se
+<lb break="no" />gue anch’ella la natura considerando tutto 
+<lb />il corpo conosce tutti gli affetti e dell’animo e del corpo. 
+
+<pb n="3r" />
+<lb />Il Principe de Principi de peripatetici <expan>Arist<ex>otele</ex></expan> nel 2o 
+<lb />de parti degli animali dice che la variazione del 
+<lb />sangue fa la variatione de costumi e nella 3a <expan>sectio<ex>ne</ex></expan>
+<lb />de problemi mostra la diversità de’ costumi; <expan>p<ex>er</ex></expan> 
+<lb />la diversità dell’altra bile <expan>p<ex>er</ex></expan> la similitudine del vino 
+<lb />et in altro luogo dice che costumi si ritrovino 
+<lb />in noi <expan>p<ex>er</ex></expan> natura e nella sua fisionomia dice queste 
+<lb />formali parole e <expan>p<ex>er</ex></expan>che l’anime seguono corpi 
+<lb />e queste secondo se stesse non impattibili da moti 
+<lb />del corpo facendosi manifesto in quelli che 
+<lb />molti si inebriano e che sono gravemente 
+<lb />malati <expan>imper<ex>ci</ex></expan>o che e pare che le anime si 
+<lb />mutino mediante le passioni del corpo e <expan>p<ex>er</ex></expan> il 
+<lb />contrario il corpo si paragoni a le passioni dell’
+<lb />animo e q[uest]o ancora si fa manifesto <expan>p<ex>er</ex></expan> l’amore, 
+<lb /><expan>p<ex>er</ex></expan> l’odio <expan>p<ex>er</ex></expan> le mestitie e <expan>p<ex>er</ex></expan> la dilettatione e Platone 
+<lb />nel Timeo dice nessuno far <expan>p<ex>er</ex></expan> se stesso cosa alcu
+<lb break="no" />na cattiva ma si bene <expan>p<ex>er</ex></expan> un certo temperamento 
+<lb />et habito di corpo e Galeno nel libro de tempe
+<lb break="no" />ramenti seguendo la med[esim]a opinione dice 
+<lb />i costumi dell’animo seguono il temperamento del corpo. Ditemi <expan>Sig<ex>no</ex></expan>ri chi e quello di voi che trava
+<lb break="no" />gliato
+
+<pb n="3v" />
+<lb />gliato da gravi passioni d’animo possa gia
+<lb />mai mostrare allegro il ciglio sino a tanto 
+<lb />che da qualche altro nuovo accidente non sia 
+<lb />tolta via questa passione. Et il <expan>med<ex>esim</ex></expan>o adviene 
+<lb />a quelli che sono sopra presi dal furore che 
+<lb />è una spetie di melancolia detta di greci 
+<lb />mania forse denominata a Manii cioe di 
+<lb />gli Dii infernali <expan>p<ex>er</ex></expan>che questi tali <expan>no<ex>n</ex></expan> altri
+<lb break="no" />menti che se fossero agitati da simili spiriti 
+<lb />dicono e manifestano le cose ascoste hora 
+<lb />p[re]potendo et hora ingiuriando chiunque se li 
+<lb />fa incontro <expan>p<ex>er</ex></expan>che questa malatia 
+<lb />è una lesione del cervello che corrompe tutte 
+<lb />le virtu morali dalle quali scrivono i poeti 
+<lb />essere stato sopprapreso Atamante, Almeone, 
+<lb />Aiace, et Horeste <expan>no<ex>n</ex></expan> di meno da medici <expan>co<ex>n</ex></expan> debiti 
+<lb />medicamenti e con l’hordine del vitto riducendo
+<lb break="no" />si gli humori alla loro natural simmetria ovvero 
+<lb />qualità ritornano nel prestino stato, et il 
+<lb />medesimo ancor adviene degli amanti i quali 
+<lb />possono anch’eglino dirsi malati <expan>p<ex>er</ex></expan> che dalli 
+<lb />fermenti di un pensiero si diventa maninconico
+
+<pb n="4r" /> 
+<lb />e si fugge la conversatione per le quali passioni 
+<lb />ne nasce danno al quore che occupato in amo
+<lb break="no" /> roso diletto si scompagnia dell’anima <expan>comunica<ex>n</ex></expan>
+<lb break="no" /> do il danno a le membra della digestione <expan>p<ex>er</ex></expan> che 
+<lb />priva di calore naturale il quale abbandona 
+<lb />quelle e corre al quore addaccandosi il <expan>sa<ex>n</ex></expan>gue 
+<expan>p<ex>er</ex></expan> le vene cosi <expan>p<ex>er</ex></expan> indigestione vengono acci
+<lb break="no" />denti e febbre. Ecco adunque che noi veggiamo 
+<lb />che scambievolmente i costumi dell’animo seguo
+<lb break="no" />no il temperamento del corpo e <expan>p<ex>er</ex></expan> i travagli 
+<lb />del corpo venirne le passioni dell’animo 
+<lb />e <expan>p<ex>er</ex></expan> le passioni dell’animo venirne in malattie 
+<lb />e queste autorità <expan>p<ex>er</ex></expan> ora mi bastano (anchor che 
+<lb />l’experientia che ciascuno prova in se stesso fusse 
+<lb />bastante) descendendo al modo di conoscere questi temperamenti. 
+
+<lb />Quattro sono gli elementi cioe fuoco aria acqua 
+<lb />e terra de quali tutte queste cose che in questo 
+<lb />mondo inferiore si ritrovano sono composte, 
+<lb />i quali elementi <expan>p<ex>er</ex></expan> parlar solo delle spetie humane 
+<lb />corrispondono a quattro humori del corpo nostro  
+
+<pb n="4v" /> 
+<lb />come il fuoco alla collera, ovvero bile che dir
+<lb />vogliamo, l’aria al sangue, l’acqua alla flemma 
+<lb />e la terra alla melancolia ovvero altra bile; e 
+<lb />quelli che più d’uno di questi quattro humori 
+<lb />partecipano sono detti da noi collerici o san
+<lb break="no" />guigni o flemmatici o melancolici a questi 
+<lb />quattro elementi e temperamenti corrispondo
+<lb break="no" />no ancora le quattro età dell’huomo 
+<lb />le quali sono la pueritia che corrisponde all’
+<lb />aria e degli humori al sangue, di natura caldo 
+<lb />et humido et termina a nove anni a questi 
+<lb />poi succede la Pubertà di mesto temperamento 
+<lb />corrisponde alla flemma <expan>co<ex>n</ex></expan> participatione 
+<lb />della collera e del sangue cominciando dagli 
+<lb />anni ix et terminando ne 25 nella quale 
+<lb />si comprende l’Adolescentia che ha il suo <expan>pri<ex>n</ex></expan>
+<lb break="no" />cipio negli anni 18 sino a 25 come certifica 
+<lb /><expan>Gal<ex>eno</ex></expan> al com. q del 5 libro degli Aforismi di <expan>Ippo<ex>crate</ex></expan>
+<lb />dopo a queste due succede la gioventù eta fio
+<lb break="no" />rita nella quale l’huomo si dice essere nello 
+<lb />stato corrisponde alla collera di natura calda e seccha 
+
+<pb n="5r" />
+<lb />e degli elementi al fuoco e dura <expan>p<ex>er</ex></expan> anni 10 comin
+<lb break="no" />ciando da 25 sino a 35 come vole il medesimo <expan>Gal<ex>eno</ex></expan>
+<lb />comentando l’istesso <expan>Ipp<ex>ocrate</ex></expan> al com/ 30 del 3o degli <expan>Afo<ex>rismi</ex></expan>
+<lb />la quarta eta che corrisponde alla melancolia e 
+<lb />degli elementi alla terra di natura fredda e sec
+<lb break="no" />ca si divide in due parti la prima comincia da
+<lb />gli anni 35 e dura sino a 49. La seconda de 49
+<lb />sino al fine della vita. Hora variando noi queste età 
+<lb />che altro <expan>n<ex>on</ex></expan> è che variare in parte il tempera
+<lb break="no" />mento nativo venghiamo a variare insieme
+<lb />i pensieri p[er]che altre cose desideriamo mentre si
+<lb break="no" />amo fanciulli, che <expan>p<ex>er</ex></expan>venuti alla gioventù quelle
+<lb />sprezziamo et altre convenienti a quella eta 
+<lb />bramiamo come ciascuno prova con se stesso.  
+<lb />E <expan>p<ex>er</ex></expan>che di sopra noi abbiamo detto che quelli che
+<lb />partecipano più d’uno humore che d’un altro de 
+<lb />quattro de quali siamo composti sono detti o collerici
+<lb />o sanguigni e quello che segue e necessario che noi
+<lb />venghiamo a mostrare in che modo questi tali 
+<lb />si consochino  distintamente l’uno dall’altro o fino
+<lb />che quando al pittore come di sopra detto occorre di figurare uno che
+<lb />che <expan>facil<ex>mente</ex></expan>si muova all’ira , uno dedito all’
+<lb />otio e alla lascivia alla gola e silimi disegni
+<lb />che si diranno conoscer lo possa
+
+<pb n="5v" />
+<lb />Galeno [nel metodo] al libro che egli intitola della natura
+<lb />et hordine di ciascun corpo dice che i collerici 
+<lb />sono <expan>p<ex>er</ex></expan> natura magri e gracili hanno le vene assai 
+<lb />apparenti sono nel moto et in ogni loro atione 
+<lb />veloci sono ostinati di breve senno hanno molti
+<lb />capelli crespi, che tendono al nero il che pro
+<lb break="no" />cede dalla molta caldezza del cuore hanno
+<lb />il colore della carni rosso scuro, il respirare 
+<lb />manifesto,  la voce grossa e forte e non molto
+<lb />chiara sono potenti alla luxuria appetisco
+<lb break="no" />no assai, mangiano bene e facilmente digeris
+<lb break="no" />cono. 
+<lb />I corpi naturalmente humidi cioe sanguigni
+<lb />sono gentili di carne et leggieri hanno le giunture
+<lb />occulte sono di poca forza e perciò difficilmente 
+<lb />sopportano la fatica sono timidi e paurosi 
+<lb />dormono male, sono stimolati spesso da venere
+<lb />non hanno peli <expan>p<ex>er</ex></expan> il corpo hanno capelli distesi 
+<lb />e sottili sono di buono ingegnio e atti alle sci
+<lb break="no" />entie. 
+<lb />I freddi cioe flemmatici <expan>p<ex>er</ex></expan> natura crescono tardi
+<lb />sono di poca carne hanno le vene assai apparenti 
+<lb />e grandi respirano leggiermente hanno la
+<lb />voce sottile e acuta, sono deboli nel corpo
+
+<pb  n="6r" />
+<lb />Di rado lo bramano sono di poco pasto <expan>no<ex>n</ex></expan> dige
+<lb break="no" />riscono molto, hanno le carni bianche, aspersi
+<lb />di puro rossore, I capelli, lunghi sottili ed dis
+<lb break="no" />tesi o sieno neri o vero bianchi, sono timidi 
+<lb />e paurosi e di poca fatica.  
+<lb />I melancolici <expan>p<ex>er</ex></expan> natura nel toccarli si sentono
+<lb />le carni aspre, sono magri, di molta fatica et forti
+<lb />mangiano <expan>co<ex>n</ex></expan>venientemente, hanno le giunture
+<lb />manifeste, i capelli aspri e crespi, sono avari 
+<lb />seditiosi, di sottile ingegnio sono facili all’
+<lb />ira e dopo che sono irati la tengono assai. 
+<lb />E se bene tutti gli huomini che si trovano sono sotto q[ue]s[ti]
+<lb />quattro temperamenti <expan>no<ex>n</ex></expan> di meno si variano in parte
+<lb /><expan>co<ex>n</ex></expan> la mutatione che si fa da luogho 
+<lb />a luogho, come benissimo ci mostra Ippocrate
+<lb />nel libro che egli intitola dell’aria dell’acque 
+<lb />e de luoghi, e nella 2a parte degli aforismi
+<lb />in quello che dice, la mutatione maximame[n]te 
+<lb />delle eta, delle regioni, e del vivere, liberano
+<lb />i giovani soprapresi dal mal caduco <expan>p<ex>er</ex></expan>che cu
+<lb break="no" />randosi I mali da sui contrari, habitando in regi
+<lb break="no" />oni di diverso temperamento da quello humore 
+<lb />freddo e crasso che genera cotal malattia
+
+<pb n="6v" />
+<lb />diverrà sano e <expan>p<ex>er</ex></expan> questa variatione di <expan>temperame<ex>n</ex></expan>
+<lb break="no" />ti si vengono anco a variare come habbiamo detto 
+<lb />I costumi, havendo ciascuna natione i suoi par
+<lb break="no" />ticulari, come mostra <expan>Arist<ex>otele</ex></expan> nel 7o della politica
+<lb />Al cap. 6 e nella xiiii sectione de problemi 
+<lb />al primo problema cosi dubitando <expan>p<ex>er</ex></expan>che quel
+<lb />li che habitano in luogho troppo freddo o ve
+<lb break="no" />ro troppo caldo sono di aspetto e di costumi 
+<lb />salvatichi, forse <expan>p<ex>er</ex></expan> la medesima ragione che 
+<lb />cosi come il buono temperamento dell’aria
+<lb />non solo giova al corpo dell’huomo  ma all’in
+<lb break="no" />telletto ancora, e tutti gli eccessi cosi come re[n]do
+<lb break="no" />no vitioso il temperamento del corpo cosi 
+<lb />rendono quello dell’animo. E Giulio Fir
+<lb break="no" />mico ne suoi astrologici scrivendo a Lolliano   
+<lb />A questo proposito cosi dice alcune nationi
+<lb />sono talmente formate dal Cielo che elle <expan>no<ex>n</ex></expan>
+<lb />sono notabili <expan>p<ex>er</ex></expan> la singularità de costumi loro
+<lb />propri gli Sciiti assassinano co[n] ogni sorte 
+<lb />di crudeltà gli Italiani furon sempre <expan>sple<ex>n</ex></expan>
+<lb break="no" />didi di nobiltà reale, i francesi impetuosi
+<lb />i Siciliani acuti, gli Asiatici sempre luxuri
+<lb break="no" />osi et occupati ne piaceri; gli spagnuoli borio
+<lb break="no" />si et vantatori. E p[er] torre gli esempi che da voi
+
+<pb n="7r" />
+<lb />giornalmente si possino considerare - ditemi 
+<lb />Virtuosissimi accademici - chi è quello dicono che 
+<lb /><expan>no<ex>n</ex></expan> conoscon I Tedeschi dall’andare <expan>co<ex>n</ex></expan> passo
+<lb />di gallo, dal gesto bravo, dal volto sfrenato 
+<lb />dalla voce grossa, dal parlare austero e da
+<lb />costumi feroci e dall’habito divisato. 
+<lb />Non si conoscono i francesi dall’andare moderato,
+<lb />dal gesto lascivo, dal volto piacevole, 
+<lb />dalla voce suave, dal parlar facile, da costumi mo
+<lb break="no" />desti e dall’habito pomposo. 
+<lb />E lo spagnolo dall’andare da costumi e da gesti
+<lb />festeggievoli, dal volto alzato, dalla voce <expan>lame<ex>n</ex></expan>
+<lb break="no" />tevole, dal parlare elega[n]te e dall’habito delicato.
+<lb />Gli Italiani vanno <expan>co<ex>n</ex></expan> passo un poco più tardo
+<lb />sono gravi nel gesto, incostanti nel volto, rumoro
+<lb break="no" />si nella voce, astuti nel parlare, magnifici ne 
+<lb />costumi, e riposati nell’habito. 
+<lb />Restami in questa parte a dire qual tempera
+<lb break="no" />mento caggino gli Dii degli antichi, et in che 
+<lb />modo si consochino. Herodoto scrive che quelli 
+<lb />di Egitto nominarono dodici Dii solamente, a 
+<lb />quali si accostarono i Pittagorici  e vollero si
+<lb />come nella sfera sono dodici figure di 
+
+<pb n="7v" />
+<lb />animali che sono i dodici segni del Zodiaco, cosi
+<lb />fussero altre e tante anime, havendo ciascheduno 
+<lb />la sua che da loro vita a morimento  e sono ques
+<lb break="no" />ti li Dei Giove, Giunone, Nettunno, Vesta
+<lb />Febo, Venere, Marte, Pallade, Mercurio, Diana, 
+<lb />Vulcano e Cerere dalli quali volevano che ve-
+<lb break="no" />nisse il governo delle cose di quaggiù <expan>p<ex>er</ex></expan>che
+<lb />Si come noi habbiamo detto quattro essere gli 
+<lb />elementi, cosi questo circolo del Zodiaco si di-
+<lb />vide in quattro parti, delle quali ciascuno
+<lb />elemento ne possiede uno e cosi di questi segni
+<lb />alcuni ne sono ignei, alcuni aerei, altri aqui
+<lb />et altri terreni e <expan>p<ex>er</ex></expan> <expan>co<ex>n</ex></expan>seguentia di questi Dii
+<lb />alcuni dominano il fuoco alcuni l’aria, altri
+<lb />l’acqua et altri la terra e <expan>p<ex>er</ex></expan> questo usarono 
+<lb />gli antichi di figurare <expan>p<ex>er</ex></expan> questi Dii le quattro
+<lb />stagioni dell’anno, che corrispondono a queste 
+<lb />quattro parti del Zodiaco a le quattro parti 
+<lb />del giorno, a quattro elementi, a le quattro eta
+<lb />dell’huomo, et quattro humori del corpo nostro. 
+<lb />A questo proposito e <expan>no<ex>n</ex></expan> senza ragione finsero questi tali
+<lb />le favole de loro Dii <expan>no<ex>n</ex></expan> <expan>p<ex>er</ex></expan> altro se <expan>no<ex>n</ex></expan> <expan>p<ex>er</ex></expan> insegnarci
+<lb />sotto la dolcezza delle favole i riposti sensi della
+<lb />filosofia naturale, cioe in che modo le cose 
+
+<pb n="8r" />
+<lb />inferiori siano governate dalle superiori come <expan>p<ex>er</ex></expan>
+<lb />Esempio la favola di Venere e di Vulcano, Venere
+<lb /><expan>p<ex>er</ex></expan> essere intesa <expan>p<ex>er</ex></expan> la generatione e Vulcano <expan>p<ex>er</ex></expan> il fuoco
+<lb />et havergli fatti insieme  marito e moglie <expan>no<ex>n</ex></expan>
+<lb />ad altro effetto se <expan>no<ex>n</ex></expan> <expan>p<ex>er</ex></expan> mostrarci che la generatione del 
+<lb />Le cose si fa dal caldo e dall’humido; e la favo-
+<lb break="no" />la ancora dell’istessa Venere quando fu dal suo
+<lb />marito Vulcano <expan>co<ex>n</ex></expan> la sottilissima rete coperta
+<lb />mentre si sollazava con Marte chiamando a tale
+<lb />spettacolo tutti gli Dei <expan>no<ex>n</ex></expan> altro mostrarci 
+<lb />che anco il sole <expan>co<ex>n</ex></expan>viene alla generatione 
+<lb />dell’huomo come vuole <expan>Arist<ex>otele</ex></expan> nel 2o delle fisica    
+<lb />quando dice che il sole e l’humido generano l’huomo 
+<lb />E fanno questa differenza <expan>p<ex>er</ex></expan>che Marte e preso <expan>p<ex>er</ex></expan>
+<lb />l’ardore del sole il quale accende in noi il sangue
+<lb />e gli spiriti che poi son facili all’ira e al furore
+<lb />E Vulcano <expan>p<ex>er</ex></expan> il fuoco elementare il chiamare a 
+<lb />tale spettacolo gli Dii non altro significarci che 
+<lb />all’introdutione delle forme ci vuole il consenso
+<lb />sopra naturale.  
+<lb />Et anco <expan>p<ex>er</ex></expan> queste altre cagioni finsero Venere
+<lb /><expan>co<ex>n</ex></expan> Marte <expan>p<ex>er</ex></expan> mostrare come piace ancora a
+
+<pb n="8v" />
+<lb /><expan>Arist<ex>otele</ex></expan> nel 2o della Politica al <expan>Cap<ex>itolo</ex></expan> 7o che gli huo
+<lb break="no" />mini di guerre chiamati da lui Martiali sono
+<lb />fortemente inclinati alla libidine e di qui vi
+<lb break="no" />ene, Virtuosissimi Accademici, la gran diligentia 
+<lb />et osservatione che noi rimiriamo nelle antiche 
+<lb />statue dei Greci, la quale fu tanta e tale nello 
+<lb />investigare sotto a qual temperamento e si ri
+<lb break="no" />trovavano che nell’exprimere i lor concetti 
+<lb />con tant’hordine gli exprimevano che hoggi
+<lb />quando nelle antichità di Roma si ritrova
+<lb />alcuna parte di qualsivoglia statua di esse <expan>p<ex>er</ex></expan>
+<lb />picciola che ella si sia si conosce se ella e di
+<lb />fanciulla o di donna di fanciullo di giovane 
+<lb />o di vecchio, e da questo mosso Alberto Durero
+<lb />Pittore famosissimo, essendo spenta questa
+<lb />regola <expan>p<ex>er</ex></expan> necessaria al vero pittore <expan>p<ex>er</ex></expan>
+<lb />universal giuramento compose quel libro
+<lb />che egli intitola della simmetria del corpo
+<lb />humano. 
+<lb />E che ancora questo maraviglioso hordine 
+<lb />nella pittura si ritrovasse (poichè l’ingiurie)
+
+<pb n="9r" />
+<lb />del tempo <expan>no<ex>n</ex></expan> ci concedono il vederle) possia
+<lb break="no" />mo in parte comprenderlo da Valerio <expan>Max<ex>im</ex></expan>o
+<lb />da Plinio e da molti altri scrittori.     
+<lb />E questo per ora mi basti il dirvi intorno alla
+<lb />cognitione di questi temperamenti lasciando
+<lb />ai professori l’eleggerne quelle cose dall’
+<lb />arte exprimersi possono <expan>p<ex>er</ex></expan> renderne la loro
+<lb />storia o favola più <expan>p<ex>er</ex></expan>fetta che possibil sia
+<lb />e che dal convenevole punto si discosti le quali 
+<lb />cose quando <expan>co<ex>n</ex></expan> diligentia sono osservate ci 
+<lb />arrecano quella vaghezza che è propria in 
+<lb />splendore di belta che muove il desiderio <expan>no<ex>stro</ex></expan>
+<lb />a <expan>co<ex>n</ex></expan>templarla e goderla, come si vede nell’op[er]a
+<lb />di molti pittori e scultori ecc[ellentissi]mi in fra le quali
+<lb />come sapete è in tanta fama il meraviglioso
+<lb />cenacolo che fece Lionardo Da Vinci nella
+<lb />città di Milano, nel quale pare che egli ci
+<lb />habbia  voluto insegnare come si possino
+<lb />exprimere questi affetti facendo gli Apos
+<lb break="no" />oli tutti alterati e confusi <expan>p<ex>er</ex></expan> le parole che 
+<lb />disse il salvatore nostro in verità che uno di 
+<lb />voi mi debba tradire  dove si scorge in loro
+
+<pb n="9v" />
+<lb />co[n] diverse attitudini con extrema voglia di chia
+<lb break="no" />rire la loro intentione e quanto è meraviglioso 
+<lb />quel Giudeo nel cui volto si scorge essere immerso
+<lb />in una malattia d’animo, che continuamente l’
+<lb />inquieta e lo <expan>p<ex>er</ex></expan>turba dalla quale <expan>p<ex>er</ex></expan>turbatione 
+<lb />e inquietudine si vede generato in lui un’indis-
+<lb />positione di humori I quali <expan>co<ex>n</ex></expan> i fumi loro oltre
+<lb />al suo naturale gli hanno macchiata e guasta
+<lb />la purita della faccia e particularmente degli
+<lb />occhi ne quali (come ministri e messaggier del
+<lb />cuore) vi si scorge quel piglio  e quella mal aria 
+<lb />dimostratrice dell’animo suo p[er]verso e tra
+<lb break="no" />ditore. 
+<lb />Fu ancora maraviglioso in q[uest]a parte Filippino
+<lb />come si vede nel tempio di Santa Maria Novella nella
+<lb />Cappella degli Strozzi dove expresse l’affetto della
+<lb />paura e del timore  figurando quella storia <expan>qua<ex>ndo</ex></expan>
+<lb />San Giovanni Evangelista scaccia il Diabolico
+<lb />serpente che era nel simulacro di Marte, dove si
+<lb />scorge ne circustanti oltre al timore e alla pau
+<lb break="no" />ra la noia della puzza e del fetore tra quali
+<lb />fa il giovanetto svenuto, volendo denotare tali
+
+<pb n="10r" />
+<lb />poter meno resistere a simili accidenti che <expan>n<ex>on</ex></expan>
+<lb />possono i più forti e di più robusta complexione
+<lb />e quanto <expan>Franc<ex>esc</ex></expan>o Salviati in <expan>qu<ex>est</ex></expan>o fusse accurato veghasi
+<lb />la sala che egli dipinse nel palazzo del Gran Duca
+<lb />dove si vede in Cammillo trionfante quel tanto 
+<lb />di maestria e di grandezza che si puo immaginare 
+<lb />in animo regio e a piedi del trionfo l’infeli
+<lb break="no" />cità e miseria degli avvinti prigionieri e nella
+<lb />battaglia dove figura quel maravoglioso
+<lb />incendio la bravura e ferocia di colui che
+<lb />co[n] la lancia trafigge l’inimico e nel trafitto
+<lb />il dolore intenso <expan>p<ex>er</ex></expan> la ricevuta ferita e dive
+<lb break="no" />nute languide le member par che spiri. 
+<lb />E se Timante fra gli antichi pittori fu tanto
+<lb />lodato nell’haver dipinto il sacrificio  d’Ifige
+<lb break="no" />nia habendo fatto Calcante messo Ulixe doloro
+<lb break="no" />so Aiace che gridava, Menelao disperato e <expan>dove<ex>ndo</ex></expan>
+<lb />dipingere Agamennone che vincesse di mesti
+<lb break="no" />zia  e di passione tutti costoro come padre di lei
+<lb />Lo fece con il viso turato benche mostrasse che l’
+<lb />Arte <expan>no<ex>n</ex></expan> puo aggiungere alla natura come 
+<lb />dice Valerio <expan>Max<ex>im</ex></expan>o <expan>p<ex>er</ex></expan>che potette ben dipingere
+<lb />le lacrime dell’Aruspice il dolore degli amici
+
+<pb n="10v" />
+<lb />ll pianto del fratello ma <expan>no<ex>n</ex></expan> già l’affetto de pa
+<lb break="no" />dre la qual cosa <expan>no<ex>n</ex></expan> cerco di fuggire il Correggio
+<lb />ma lo expresse <expan>co<ex>n</ex></expan> infinita grandezza e meravi
+<lb break="no" />glia come puo havere visto ciaschuno di noi
+<lb />in un quadro che e appresso al <expan>Sig<ex>no</ex></expan>r <expan>Franc<ex>esc</ex></expan>o et
+<lb />il <expan>Sig<ex>no</ex></expan>r Lorenzo Salviati nel quale è dipinto un 
+<lb />Cristo quando Pilato lo mostra al popolo doppo
+<lb />che fu battuto a la colonna e coronato di
+<lb />spine nel cui volto si vede una mestitia e un 
+<lb />dolore intenso e nella Mad[o]nn[a] quel tanto che <expan>no<ex>n</ex></expan>
+<lb />seppe exprimere ne immaginarsi Timante.
+<lb />E se vogliamo vedere un’extrema bellezza <expan>co<ex>n</ex></expan> un 
+<lb />aspetto casto nobile e venerando dove possiamo
+<lb />noi vederlo più mirabilmente expresso che nel
+<lb />la Santissima Vergine di mano del Rosso nella
+<lb />Chiesa di San Lorenzo figurandolo quando ella 
+<lb />e sposata da San Giuseppe nella quale si scorge
+<lb />una purita e semplicita <expan>co<ex>n</ex></expan> tanto honesto cos
+<lb break="no" />tume <expan>co<ex>n</ex></expan>giunto che partorisce uno splendore
+<lb />che ben da notitia altrui che <expan>p<ex>er</ex></expan> altro <expan>no<ex>n</ex></expan> è figura
+<lb break="no" />to che <expan>p<ex>er</ex></expan> la Regina celeste. 
+<lb />Ma <expan>p<ex>er</ex></expan>che de cosi grandi et potenti exempi <expan>no<ex>n</ex></expan> 
+<lb />sono rimossi alcuni i quali nel presentarci cotali  
+
+<pb n="11r" />
+<lb />storie o altre simili le fanno d’aspetto dal cos
+<lb break="no" />tume tanto lontane che piuttosto ci muovono a
+<lb />riso che a riverentia E <expan>no<ex>n</ex></expan> è meraviglia se il gra[n]de
+<lb />Alex[andr]o mosso di questi exempi <expan>p<ex>er</ex></expan> tor via il dis
+<lb break="no" />prezzo della sua Maestà volesse che solo due 
+<lb />ecc[ellent]i artefici Apelle e Lisippo uno col pennello e
+<lb />l’altro coll’intaglio ritrar lo potessero. 
+<lb />che un Re mortale hebbe di se tanta cura che do
+<lb break="no" />verremo far noi de i Gran Duchi e del Gran Re
+<lb />del Cielo. Ma <expan>p<ex>er</ex></expan>che a me come <expan>no<ex>n</ex></expan> professore
+<lb />E di tutti il meno intendente <expan>no<ex>n</ex></expan> conviene additare
+<lb />gli altrui errori me ne referisco al n[o]str[o] maggi
+<lb break="no" />ore al quale tanto a cura la reputatione di q[uest]a
+<lb />Accademia che <expan>no<ex>n</ex></expan> solo <expan>p<ex>er</ex></expan> mantenimento di quella
+     
+</p>
+
+
+
+  </body>
+  <back>
+<!--  [ back matter ...  ] -->
+  </back>
+ </text>
+</TEI>

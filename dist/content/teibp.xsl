@@ -395,6 +395,8 @@
 			<h1>Toolbox</h1>
 			<label for="pbToggle">Hide page breaks</label>
 			<input type="checkbox" id="pbToggle" /> 
+			<label for="abrevToggle">Abbreviations</label>
+			<input type="checkbox" id="abbrevToggle" /> 
 			<div>
 				<h3>Themes:</h3>
 
